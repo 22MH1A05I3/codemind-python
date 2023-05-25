@@ -6,6 +6,6 @@ while y!=0:
     s+=a
     y=y//10
 if s==x:
-    print('Neon Number')
+
 else:
     print('Not Neon Number')
