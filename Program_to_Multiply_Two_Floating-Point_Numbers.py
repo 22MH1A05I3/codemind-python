@@ -1,3 +1,4 @@
 a=float(input())
 b=float(input())
-print(round(a*b,2))
+c=a*b
+print(round(c,2))
